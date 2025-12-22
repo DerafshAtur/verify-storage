@@ -1,0 +1,9 @@
+{
+  "authorized_users": [],
+  "exempt_users": [],
+  "banned_users": [],
+  "allowed_groups": [
+    -1002610002026
+  ],
+  "warning_counts": {}
+}
