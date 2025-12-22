@@ -5,5 +5,7 @@
   "allowed_groups": [
     -1002610002026
   ],
-  "warning_counts": {}
+  "warning_counts": {
+    "6836635827": 1
+  }
 }
