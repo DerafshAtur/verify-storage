@@ -1,11 +1,14 @@
 {
   "authorized_users": [],
-  "exempt_users": [],
+  "exempt_users": [
+    6001769473
+  ],
   "banned_users": [],
   "allowed_groups": [
     -1002610002026
   ],
   "warning_counts": {
-    "6836635827": 1
+    "6836635827": 1,
+    "6520686782": 1
   }
 }
