@@ -36,7 +36,13 @@
     "547984861": 2,
     "6435974691": 1
   },
-  "user_locations": {},
+  "user_locations": {
+    "8268348787": {
+      "latitude": 36.469033,
+      "longitude": 52.352299,
+      "timestamp": "2026-02-25T17:42:17.556132"
+    }
+  },
   "user_phones": {},
   "user_info": {
     "6520686782": {
