@@ -1,1 +1,24 @@
-
+{
+  "authorized_users": [
+    6520686782
+  ],
+  "exempt_users": [
+    6001769473
+  ],
+  "banned_users": [],
+  "allowed_groups": [
+    -1002610002026
+  ],
+  "warning_counts": {},
+  "user_locations": {},
+  "user_phones": {},
+  "user_info": {
+    "6520686782": {
+      "phone": "989909966873",
+      "username": "S13dra",
+      "first_name": "Sadra",
+      "last_name": null,
+      "verified_at": "2026-02-25T16:45:37.160315"
+    }
+  }
+}
